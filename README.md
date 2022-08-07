@@ -2,6 +2,9 @@
 
 このツールはじゃんたまの牌譜を解析して、４人麻雀の半荘（東風）のまとめを作成します。
 
+牌譜のダウンロードについてはこちらのページを参照してください。  
+https://github.com/majaneye/JANTAMA/wiki/%E7%89%8C%E8%AD%9C%E3%81%AE%E4%B8%80%E6%8B%AC%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89
+
 現在、実装されているのは以下の機能です。
 - 各局の結果表示（上がりまたは流局、点棒移動、立直、和了役）
 - 点棒状況のグラフ表示
@@ -77,8 +80,7 @@ paifu()と入力してウィンドウを表示するより、paifu("雀魂牌譜
 
 画像は神域リーグ様の牌譜をお借りして作成しました。
 
-![スクリーンショット 2022-07-18 2 00 33](https://user-images.githubusercontent.com/108359839/179417467-12d4b5ec-e0e4-43a6-9c48-07dc46d21e80.png)
-
-<img width="1076" alt="スクリーンショット 2022-07-18 2 45 18" src="https://user-images.githubusercontent.com/108359839/179418192-e2559c0c-26e0-492e-9fc0-bbd8b0f03131.png">
-
-![スクリーンショット 2022-07-27 3 02 25](https://user-images.githubusercontent.com/108359839/181080105-3a5b727a-54cb-49a3-b385-9bff499f3268.png)
+<img width="1069" alt="スクリーンショット 2022-08-08 4 17 10" src="https://user-images.githubusercontent.com/108359839/183307498-c29a527d-c3f7-4fb5-8c3d-0a63064617cd.png">
+<img width="1069" alt="スクリーンショット 2022-08-08 4 17 19" src="https://user-images.githubusercontent.com/108359839/183307504-4ef378e9-99d4-4972-ab78-3b23ae669590.png">
+<img width="1069" alt="スクリーンショット 2022-08-08 4 17 23" src="https://user-images.githubusercontent.com/108359839/183307509-06e4c607-88f0-4790-88e1-2675f04b2367.png">
+<img width="1069" alt="スクリーンショット 2022-08-08 4 21 23" src="https://user-images.githubusercontent.com/108359839/183307544-9d07a023-0db7-41b0-8a4b-308f7306c874.png">
