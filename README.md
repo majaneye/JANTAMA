@@ -13,6 +13,7 @@ https://github.com/majaneye/JANTAMA/wiki/%E7%89%8C%E8%AD%9C%E3%81%AE%E4%B8%80%E6
 - 放銃リスト
 - スタッツの表示
 - リーグ戦（チーム戦）機能
+- akochan-reviewerでの解析・結果の表示機能 （ローカルにakochan-reviewerが必要です）  
 
 ## 使い方
 
@@ -63,6 +64,26 @@ Settings/Leagues/calc_base.txt
 メンバー数は同じでなくても構いません。  
 ０人のチームやチームが一つも登録されていない場合については保証してないのでご注意ください。  
 
+### akochan-reviewerでの解析・結果の表示　　
+
+akochan-reviewerを使用して、解析した結果を牌譜ビューワーで表示できます。  
+akochan-reviewerでの解析は１局単位で行いますが、私の環境では大体100秒くらいかかります。（局の長さに比例します）  
+MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)  
+2 GHz デュアルコアIntel Core i5  
+8 GB 1867 MHz LPDDR3  
+Intel Iris Graphics 540 1536 MB  
+
+akochan-reviewerについてはこちらのページを参照してください。   
+https://github.com/Equim-chan/mjai-reviewer  
+
+windowsはこちらの実行ファイルをDLしてJantamaViewerフォルダにおいてください。  
+https://github.com/Equim-chan/mjai-reviewer/releases  
+[akochan-reviewer-v0.7.1-windows-x86_64.zip](https://github.com/Equim-chan/mjai-reviewer/releases/download/v0.7.1/akochan-reviewer-v0.7.1-windows-x86_64.zip)  
+
+macは実行ファイルが公開されていないので、ビルドが必要です。  
+（勝手にアップしていいものか分からないので…）  
+
+
 ## 牌譜について
 
 牌譜の一括ダウンロードの方法についてまとめました。
@@ -84,3 +105,4 @@ paifu()と入力してウィンドウを表示するより、paifu("雀魂牌譜
 <img width="1069" alt="スクリーンショット 2022-08-08 4 17 19" src="https://user-images.githubusercontent.com/108359839/183307504-4ef378e9-99d4-4972-ab78-3b23ae669590.png">
 <img width="1069" alt="スクリーンショット 2022-08-08 4 17 23" src="https://user-images.githubusercontent.com/108359839/183307509-06e4c607-88f0-4790-88e1-2675f04b2367.png">
 <img width="1069" alt="スクリーンショット 2022-08-08 4 21 23" src="https://user-images.githubusercontent.com/108359839/183307544-9d07a023-0db7-41b0-8a4b-308f7306c874.png">
+<img width="1067" alt="スクリーンショット 2022-08-24 2 54 25" src="https://user-images.githubusercontent.com/108359839/186340238-827793d1-5ade-444c-aebb-1626058dca75.png">
