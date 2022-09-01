@@ -106,3 +106,6 @@ paifu()と入力してウィンドウを表示するより、paifu("雀魂牌譜
 <img width="1069" alt="スクリーンショット 2022-08-08 4 17 23" src="https://user-images.githubusercontent.com/108359839/183307509-06e4c607-88f0-4790-88e1-2675f04b2367.png">
 <img width="1069" alt="スクリーンショット 2022-08-08 4 21 23" src="https://user-images.githubusercontent.com/108359839/183307544-9d07a023-0db7-41b0-8a4b-308f7306c874.png">
 <img width="1067" alt="スクリーンショット 2022-08-24 2 54 25" src="https://user-images.githubusercontent.com/108359839/186340238-827793d1-5ade-444c-aebb-1626058dca75.png">
+
+![JanatamaViewer 001](https://user-images.githubusercontent.com/108359839/187995444-b068b79c-269a-4cf3-8687-42807fb6b316.png)
+
